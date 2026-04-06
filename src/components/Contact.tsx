@@ -119,7 +119,7 @@ export default function Contact() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/amansoni1605"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-blue-600 bg-slate-50 border border-slate-100 px-4 py-2.5 rounded-xl hover:border-blue-100 transition-colors"

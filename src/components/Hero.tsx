@@ -117,7 +117,7 @@ export default function Hero() {
               <Mail size={18} />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/amansoni1605"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2.5 bg-white rounded-lg border border-slate-200 text-slate-500 hover:text-blue-600 hover:border-blue-200 transition-colors shadow-sm"
